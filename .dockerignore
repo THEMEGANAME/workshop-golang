@@ -1,0 +1,10 @@
+.git
+Dockerfile
+.DS_Store
+.gitignore
+README.md
+/devops/*
+
+# # ignore go module 
+# go.mod
+# go.sum
